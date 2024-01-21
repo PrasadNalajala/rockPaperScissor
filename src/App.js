@@ -1,3 +1,4 @@
+
 import './App.css'
 import RockPaperScissors from './components/RockPaperScissors'
 
@@ -22,3 +23,5 @@ const choicesList = [
 const App = () => <RockPaperScissors choicesList={choicesList} />
 
 export default App
+
+#plan
